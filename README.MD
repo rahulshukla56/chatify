@@ -1,5 +1,4 @@
 
-![Alt Text](../Chatify%20App/frontend/public/Screenshot%202025-10-03%20202135.png)
 Highlights:
 
 🔐 Custom JWT Authentication (no 3rd-party auth)
